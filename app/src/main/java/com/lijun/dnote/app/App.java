@@ -1,4 +1,4 @@
-package com.xhinliang.dnote.app;
+package com.lijun.dnote.app;
 
 import android.app.Application;
 
@@ -13,6 +13,6 @@ public class App extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        AVOSCloud.initialize(this, "n2yYcM45cWQpRjDFd4eaBzhU-gzGzoHsz", "rJOtJuDf0dHRXxdGxKw5Fnh9");
+        AVOSCloud.initialize(this, "23qjaL381jmKJPAhNmEE3TFo-gzGzoHsz", "rnU4t4wqCeoyF8jbK8n7kuYY");
     }
 }

@@ -1,4 +1,4 @@
-package com.xhinliang.dnote.activity;
+package com.lijun.dnote.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -21,9 +21,9 @@ import com.avos.avoscloud.AVObject;
 import com.avos.avoscloud.AVQuery;
 import com.avos.avoscloud.AVUser;
 import com.avos.avoscloud.FindCallback;
-import com.xhinliang.dnote.R;
-import com.xhinliang.dnote.adpter.NoteAdapter;
-import com.xhinliang.dnote.global.NoteFactory;
+import com.lijun.dnote.R;
+import com.lijun.dnote.adpter.NoteAdapter;
+import com.lijun.dnote.global.NoteFactory;
 
 import java.util.List;
 

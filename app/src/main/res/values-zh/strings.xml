@@ -1,2 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">记事本</string>
+    <string name="title_activity_login">登录</string>
+    <string name="prompt_email">请输入邮箱</string>
+    <string name="title_activity_list">记事条目</string>
+    <string name="prompt_password">请输入密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">邮箱地址不合法</string>
+    <string name="error_invalid_password">密码不合法</string>
+    <string name="error_incorrect_password">密码不正确</string>
+    <string name="error_field_required">填写不完整</string>
+    <string name="title_activity_detail">内容</string>
+    <string name="large_text"></string>
+    <string name="action_settings">设置</string>
+    <string name="note_title">笔记目录</string>
+    <string name="note_content">笔记内容</string>
+    <string name="note_createdat">添加笔记</string>
+    <string name="add_note_success">笔记添加成功</string>
+    <string name="revert">撤销</string>
+    <string name="edit_content">编辑内容</string>
+    <string name="edit_title">编辑题目</string>
+    <string name="edit_note_success">编辑成功</string>
+    <string name="save_success">笔记保存成功</string>
+    <string name="create_note_success">创建成功</string>
+    <string name="input_new_title">输入新的题目</string>
+    <string name="confirm">请确认</string>
+    <string name="log_out">登出</string>
+    <string name="register">注册</string>
+    <string name="list_is_empty">笔记为空</string>
+</resources>

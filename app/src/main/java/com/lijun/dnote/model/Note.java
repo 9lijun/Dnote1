@@ -1,9 +1,9 @@
-package com.xhinliang.dnote.model;
+package com.lijun.dnote.model;
 
 import com.avos.avoscloud.AVObject;
 import com.avos.avoscloud.AVUser;
 import com.avos.avoscloud.SaveCallback;
-import com.xhinliang.dnote.global.NoteFactory;
+import com.lijun.dnote.global.NoteFactory;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
